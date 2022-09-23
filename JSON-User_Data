@@ -1,0 +1,580 @@
+{
+"results": [
+{
+"userId": 1,
+"gender": "male",
+"name": {
+"title": "Mr",
+"first": "Manuel",
+"last": "Morales"
+},
+"location": {
+"street": {
+"number": 8321,
+"name": "Calle de Tetuán"
+},
+"city": "Almería",
+"state": "Castilla y León",
+"country": "Spain",
+"postcode": 74683,
+"coordinates": {
+"latitude": "-34.5041",
+"longitude": "-159.7366"
+},
+"timezone": {
+"offset": "-1:00",
+"description": "Azores, Cape Verde Islands"
+}
+},
+"email": "manuel.morales@example.com",
+"login": {
+"uuid": "b96da15b-4c00-451a-8827-57621cbd8aa8",
+"username": "blackladybug432",
+"password": "kokomo",
+"salt": "sUcbtfPV",
+"md5": "604ec1ee71821a00ad3f0f6cb3dd3814",
+"sha1": "86d394491be40ad17a7194bdb973e54a52834d8d",
+"sha256": "08726ed171c43cbd03a7b3cb5c03c6f60bebb3396d3df1c9ec20d81a566ba917"
+},
+"dob": {
+"date": "1971-01-20T07:17:45.865Z",
+"age": 51
+},
+"registered": {
+"date": "2010-06-02T20:18:22.113Z",
+"age": 12
+},
+"phone": "907-785-665",
+"cell": "660-881-347",
+"id": {
+"name": "DNI",
+"value": "95549229-L"
+},
+"picture": {
+"large": "https://randomuser.me/api/portraits/men/18.jpg",
+"medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+"thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+},
+"nat": "ES"
+},
+{
+"userId": 2,
+"gender": "male",
+"name": {
+"title": "Monsieur",
+"first": "Johan",
+"last": "Meunier"
+},
+"location": {
+"street": {
+"number": 3583,
+"name": "Rue Abel-Gance"
+},
+"city": "Amlikon-Bissegg",
+"state": "Uri",
+"country": "Switzerland",
+"postcode": 5453,
+"coordinates": {
+"latitude": "18.0801",
+"longitude": "-146.2871"
+},
+"timezone": {
+"offset": "+3:00",
+"description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+}
+},
+"email": "johan.meunier@example.com",
+"login": {
+"uuid": "dd257be9-86e3-44f7-a17a-8550cff30cde",
+"username": "tinydog800",
+"password": "vh5150",
+"salt": "7ldV36bg",
+"md5": "9414b60e600f0b0232876a27669cc657",
+"sha1": "2241f57b933167335e4d9e19918255f453328a09",
+"sha256": "948ca0d62678db51011d598ed0318fc6b1d8ffa34e63ec2230e7f30de3ae43d2"
+},
+"dob": {
+"date": "2000-11-21T15:35:05.117Z",
+"age": 21
+},
+"registered": {
+"date": "2021-02-08T16:20:50.567Z",
+"age": 1
+},
+"phone": "077 057 47 27",
+"cell": "078 971 11 72",
+"id": {
+"name": "AVS",
+"value": "756.3194.5722.06"
+},
+"picture": {
+"large": "https://randomuser.me/api/portraits/men/24.jpg",
+"medium": "https://randomuser.me/api/portraits/med/men/24.jpg",
+"thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
+},
+"nat": "CH"
+},
+{
+"userId": 3,
+"gender": "female",
+"name": {
+"title": "Ms",
+"first": "Mia",
+"last": "French"
+},
+"location": {
+"street": {
+"number": 5938,
+"name": "Concession Road 23"
+},
+"city": "Lumsden",
+"state": "Saskatchewan",
+"country": "Canada",
+"postcode": "T8U 4Y5",
+"coordinates": {
+"latitude": "-85.8136",
+"longitude": "-142.2251"
+},
+"timezone": {
+"offset": "-12:00",
+"description": "Eniwetok, Kwajalein"
+}
+},
+"email": "mia.french@example.com",
+"login": {
+"uuid": "fe3cfe37-709b-47c4-8aec-212b453f79c3",
+"username": "tinyduck796",
+"password": "bledsoe",
+"salt": "vCfHDLkV",
+"md5": "4a42659ba875facd8e761dae785b2062",
+"sha1": "8e988780d2d9f22d7c06b5eaa34d8d2cd270f731",
+"sha256": "1bb574f9f46a5df10f6cd11a93d0409c54ee7535494320088c55de40f4842187"
+},
+"dob": {
+"date": "1947-03-01T20:43:08.554Z",
+"age": 75
+},
+"registered": {
+"date": "2006-12-01T20:05:13.572Z",
+"age": 15
+},
+"phone": "F87 U76-9412",
+"cell": "Q01 W59-4203",
+"id": {
+"name": "SIN",
+"value": "785530833"
+},
+"picture": {
+"large": "https://randomuser.me/api/portraits/women/92.jpg",
+"medium": "https://randomuser.me/api/portraits/med/women/92.jpg",
+"thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
+},
+"nat": "CA"
+},
+{
+"userId": 4,
+"gender": "female",
+"name": {
+"title": "Ms",
+"first": "Rocío",
+"last": "Rodríguez"
+},
+"location": {
+"street": {
+"number": 8577,
+"name": "Avenida de Burgos"
+},
+"city": "Albacete",
+"state": "Ceuta",
+"country": "Spain",
+"postcode": 53576,
+"coordinates": {
+"latitude": "-44.4007",
+"longitude": "-176.6895"
+},
+"timezone": {
+"offset": "-3:30",
+"description": "Newfoundland"
+}
+},
+"email": "rocio.rodriguez@example.com",
+"login": {
+"uuid": "92dd4d09-48dd-4571-8792-c2e3c03f3ebc",
+"username": "yellowfish495",
+"password": "asdf1234",
+"salt": "SzCHoReW",
+"md5": "c120a9bcca79dae19993b5c86111f82a",
+"sha1": "e662b4f64a8b8762993043d9e4f8fcf0ea2a982d",
+"sha256": "1fdce0d49d7a99bae0f76abb5d197bdb249d158e59cde3280109aba5eb52f2f8"
+},
+"dob": {
+"date": "1964-06-30T07:13:06.077Z",
+"age": 58
+},
+"registered": {
+"date": "2021-09-28T19:08:03.164Z",
+"age": 0
+},
+"phone": "916-454-663",
+"cell": "663-080-423",
+"id": {
+"name": "DNI",
+"value": "08629866-Q"
+},
+"picture": {
+"large": "https://randomuser.me/api/portraits/women/46.jpg",
+"medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
+"thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+},
+"nat": "ES"
+},
+{
+"userId": 5,
+"gender": "female",
+"name": {
+"title": "Miss",
+"first": "Leposava",
+"last": "Radovanović"
+},
+"location": {
+"street": {
+"number": 3551,
+"name": "Mijatovih Njiva"
+},
+"city": "Mali Zvornik",
+"state": "Mačva",
+"country": "Serbia",
+"postcode": 80354,
+"coordinates": {
+"latitude": "48.5350",
+"longitude": "42.5414"
+},
+"timezone": {
+"offset": "-1:00",
+"description": "Azores, Cape Verde Islands"
+}
+},
+"email": "leposava.radovanovic@example.com",
+"login": {
+"uuid": "f623a11d-8f63-4046-aa5f-39ed4bb9a4a3",
+"username": "orangeostrich193",
+"password": "lumber",
+"salt": "DwCspxbi",
+"md5": "9116332402e477ecaf3c13af102cf782",
+"sha1": "47ba4af78f319b5ad136cd4209da25126119586d",
+"sha256": "56ce8d87585c0fdcdc29ba26cc5f8ec7866d5a9e148749cd7b7bdc46642c5e6f"
+},
+"dob": {
+"date": "1975-05-18T03:44:28.970Z",
+"age": 47
+},
+"registered": {
+"date": "2012-11-20T04:29:35.342Z",
+"age": 9
+},
+"phone": "023-7522-735",
+"cell": "067-9040-924",
+"id": {
+"name": "SID",
+"value": "345098801"
+},
+"picture": {
+"large": "https://randomuser.me/api/portraits/women/5.jpg",
+"medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
+"thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+},
+"nat": "RS"
+},
+{
+"userId": 6,
+"gender": "female",
+"name": {
+"title": "Mrs",
+"first": "Peyton",
+"last": "Mckinney"
+},
+"location": {
+"street": {
+"number": 6468,
+"name": "W Sherman Dr"
+},
+"city": "Kalgoorlie",
+"state": "Northern Territory",
+"country": "Australia",
+"postcode": 2793,
+"coordinates": {
+"latitude": "53.9120",
+"longitude": "-30.3487"
+},
+"timezone": {
+"offset": "-6:00",
+"description": "Central Time (US & Canada), Mexico City"
+}
+},
+"email": "peyton.mckinney@example.com",
+"login": {
+"uuid": "4c7bc5e5-bd99-451c-95cc-c7e84bdcd4d1",
+"username": "orangetiger724",
+"password": "oooooo",
+"salt": "YMj3z7Y7",
+"md5": "5ca07b4f18170f6361044a303c96bf1a",
+"sha1": "c601d82c9e1485825bfc15f11a18d9c352cfa028",
+"sha256": "c6a4a9a352bafad05db903156d9d7cccbbc0c6653609ae3287c7c387b99657cb"
+},
+"dob": {
+"date": "1953-09-13T11:59:52.488Z",
+"age": 69
+},
+"registered": {
+"date": "2018-09-04T17:49:43.621Z",
+"age": 4
+},
+"phone": "06-2789-3259",
+"cell": "0419-151-421",
+"id": {
+"name": "TFN",
+"value": "424371734"
+},
+"picture": {
+"large": "https://randomuser.me/api/portraits/women/91.jpg",
+"medium": "https://randomuser.me/api/portraits/med/women/91.jpg",
+"thumbnail": "https://randomuser.me/api/portraits/thumb/women/91.jpg"
+},
+"nat": "AU"
+},
+{
+"userId": 7,
+"gender": "male",
+"name": {
+"title": "Mr",
+"first": "Magnus",
+"last": "Møller"
+},
+"location": {
+"street": {
+"number": 6624,
+"name": "Sprogøvej"
+},
+"city": "Nørre Sundby",
+"state": "Nordjylland",
+"country": "Denmark",
+"postcode": 22882,
+"coordinates": {
+"latitude": "-88.7620",
+"longitude": "-23.3834"
+},
+"timezone": {
+"offset": "+10:00",
+"description": "Eastern Australia, Guam, Vladivostok"
+}
+},
+"email": "magnus.moller@example.com",
+"login": {
+"uuid": "7b6783b1-c1f4-475f-b196-96a95b61d073",
+"username": "silverduck332",
+"password": "lawson",
+"salt": "Pgb0rM1n",
+"md5": "26aa29849f0d50319a2ce656d9ad10ba",
+"sha1": "5369f37f7a547ef3b5fb709d84018f4ddfdc0c0f",
+"sha256": "1c4953f3552feab0272bc055955fa7b8748ed1a8d33f411def9102a417e1eea5"
+},
+"dob": {
+"date": "1959-10-25T06:40:09.306Z",
+"age": 62
+},
+"registered": {
+"date": "2014-07-23T17:24:13.109Z",
+"age": 8
+},
+"phone": "01243999",
+"cell": "01432306",
+"id": {
+"name": "CPR",
+"value": "251059-2748"
+},
+"picture": {
+"large": "https://randomuser.me/api/portraits/men/83.jpg",
+"medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+"thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+},
+"nat": "DK"
+},
+{
+"userId": 8,
+"gender": "female",
+"name": {
+"title": "Ms",
+"first": "Stefanija",
+"last": "Ivanović"
+},
+"location": {
+"street": {
+"number": 3624,
+"name": "Marte Jorgović "
+},
+"city": "Žitište",
+"state": "Toplica",
+"country": "Serbia",
+"postcode": 46815,
+"coordinates": {
+"latitude": "-22.3176",
+"longitude": "-164.3335"
+},
+"timezone": {
+"offset": "+5:45",
+"description": "Kathmandu"
+}
+},
+"email": "stefanija.ivanovic@example.com",
+"login": {
+"uuid": "d94fdaaa-dd69-4065-b74c-7574460288a1",
+"username": "whitepanda860",
+"password": "voyager1",
+"salt": "kepbCHUv",
+"md5": "887ebcca474a85ce832bd21c91368c50",
+"sha1": "dfa9f2078900b489bd2e027d4ce0511199642a02",
+"sha256": "309e8624f37f15eaa9478c2be4093c0e605ab37d008cea158b2a15f2832d42bf"
+},
+"dob": {
+"date": "1949-11-30T23:44:56.363Z",
+"age": 72
+},
+"registered": {
+"date": "2008-07-17T20:50:57.122Z",
+"age": 14
+},
+"phone": "011-7853-525",
+"cell": "062-5703-359",
+"id": {
+"name": "SID",
+"value": "665681270"
+},
+"picture": {
+"large": "https://randomuser.me/api/portraits/women/37.jpg",
+"medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
+"thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+},
+"nat": "RS"
+},
+{
+"userId": 9,
+"gender": "female",
+"name": {
+"title": "Miss",
+"first": "Vicki",
+"last": "Chavez"
+},
+"location": {
+"street": {
+"number": 6435,
+"name": "W Belt Line Rd"
+},
+"city": "Bundaberg",
+"state": "New South Wales",
+"country": "Australia",
+"postcode": 287,
+"coordinates": {
+"latitude": "7.4441",
+"longitude": "10.3871"
+},
+"timezone": {
+"offset": "+3:30",
+"description": "Tehran"
+}
+},
+"email": "vicki.chavez@example.com",
+"login": {
+"uuid": "0a5c834c-58be-4070-a376-790ecd020bc9",
+"username": "happyduck591",
+"password": "wibble",
+"salt": "grsULeoc",
+"md5": "2c5dc158046ef0c5a4d65bf0e5a112e3",
+"sha1": "fb2650528f5b6e70a97d385459a3bb32e27e9917",
+"sha256": "d99f53a6f793ff3f21b33c820de428fef621a2ee34b7857b09ac19c58dd2daf0"
+},
+"dob": {
+"date": "1987-08-14T14:36:01.190Z",
+"age": 35
+},
+"registered": {
+"date": "2003-04-08T05:04:35.555Z",
+"age": 19
+},
+"phone": "01-6600-4854",
+"cell": "0474-060-182",
+"id": {
+"name": "TFN",
+"value": "792942341"
+},
+"picture": {
+"large": "https://randomuser.me/api/portraits/women/49.jpg",
+"medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
+"thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
+},
+"nat": "AU"
+},
+{
+"userId": 10,
+"gender": "female",
+"name": {
+"title": "Mrs",
+"first": "آوینا",
+"last": "سهيلي راد"
+},
+"location": {
+"street": {
+"number": 7942,
+"name": "دکتر لواسانی"
+},
+"city": "سیرجان",
+"state": "خراسان رضوی",
+"country": "Iran",
+"postcode": 19584,
+"coordinates": {
+"latitude": "-25.1989",
+"longitude": "-103.0572"
+},
+"timezone": {
+"offset": "+6:00",
+"description": "Almaty, Dhaka, Colombo"
+}
+},
+"email": "awyn.shylyrd@example.com",
+"login": {
+"uuid": "ae743d92-e6fd-4fa8-ab2d-fb3cdf548f2f",
+"username": "heavyladybug682",
+"password": "annika",
+"salt": "iQnj2IdF",
+"md5": "6087997d207fbb616254b59147a4531e",
+"sha1": "cb6907679d9de4d0e535cb16504104330db41b72",
+"sha256": "51634d20851a806b06b01846bf9ea8477f61532453499b307b3e3a188eb2284b"
+},
+"dob": {
+"date": "1994-07-29T07:13:13.522Z",
+"age": 28
+},
+"registered": {
+"date": "2006-04-30T22:22:57.480Z",
+"age": 16
+},
+"phone": "095-09954958",
+"cell": "0931-235-7029",
+"id": {
+"name": "",
+"value": null
+},
+"picture": {
+"large": "https://randomuser.me/api/portraits/women/89.jpg",
+"medium": "https://randomuser.me/api/portraits/med/women/89.jpg",
+"thumbnail": "https://randomuser.me/api/portraits/thumb/women/89.jpg"
+},
+"nat": "IR"
+}
+],
+"info": {
+"seed": "9792809488ddb563",
+"results": 10,
+"page": 1,
+"version": "1.4"
+}
+}
